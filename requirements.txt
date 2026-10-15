@@ -1,0 +1,5 @@
+manim==0.21.0
+manim-slides[pyside6-full]==5.7.0
+moderngl==5.12.0
+numpy
+pillow

@@ -1,0 +1,15 @@
+# Entorno virtual de Python (se recrea con requirements.txt)
+.venv/
+
+# Salidas de render (se regeneran con manim; pesan cientos de MB)
+media/
+slides/
+
+# Basura de Python / LaTeX / sistema
+__pycache__/
+*.pyc
+mfput.log
+*.log
+Thumbs.db
+desktop.ini
+.DS_Store
